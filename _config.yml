@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
+title: "dsung198 Profile"
 name: "A Free Job Market Profile in Jekyll"
 email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+url: "https://dsung198.github.io"
+baseurl: "/dsung198-Profile"
+repository: "dsung198/dsung198-Profile"
 header:
   image: /assets/images/banner-husky.jpg
 
